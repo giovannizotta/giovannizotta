@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me
-I recently graduated from the University of Trento with a **Master's Degree in Computer Science**.  
+After graduating from the University of Trento with a **Master's Degree in Computer Science**, I moved to Amsterdam to work as a Java developer at Picnic Technologies.
 My main interests are in Distributed Systems and Algorithms, although I'm also into Performance Evaluation, Virtualization and Cloud Computing.
 
 #### Contacts
