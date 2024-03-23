@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 #### About me
-After graduating from the University of Trento with a **Master's Degree in Computer Science**, I moved to Amsterdam to work as a Java developer at Picnic Technologies.
-My main interests are in Distributed Systems and Algorithms, although I'm also into Performance Evaluation, Virtualization and Cloud Computing.
+I got my Master's in Computer Science in 2022, after which I moved to Amsterdam to work as a Software Engineer for [Picnic](https://github.com/PicnicSupermarket) in the Warehouse Systems team, primarily using Java, Spring, SQL, RabbitMQ, Python. I'm passionate about many technical topics, like distributed systems, databases, protocols, and API design. I also like to play with other languages like Go when I have the opportunity.
 
 #### Contacts
 Send an email to giovanni at zotta dot dev  
