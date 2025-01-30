@@ -6,5 +6,4 @@ I got my Master's in Computer Science in 2022, after which I moved to Amsterdam 
 I joined Booking.com in late 2024, working in the Fintech domain.
 
 #### Contacts
-Send an email to giovanni at zotta dot dev  
-Or message me on [LinkedIn](https://www.linkedin.com/in/giovanni-zotta/).
+You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/giovanni-zotta/).
